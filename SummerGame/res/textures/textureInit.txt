@@ -1,0 +1,7 @@
+/textures/tiles.png
+128
+2
+stone
+sky
+ice
+sandstone
